@@ -6,4 +6,5 @@ https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 https://www.programiz.com/dsapart1https://www.programiz.com/dsa/
 https://www.educative.io/module/data-structures-in-java
 https://education.github.com/pack
-https://education.github.com/pack
+https://www.coursera.org/learn/algorithms-part1
+
