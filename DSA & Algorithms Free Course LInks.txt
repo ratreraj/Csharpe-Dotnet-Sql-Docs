@@ -1,0 +1,9 @@
+Links to the courses:
+https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-videos/
+https://algs4.cs.princeton.edu/lectures/
+https://www.geeksforgeeks.org/data-structures/
+https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+https://www.programiz.com/dsapart1https://www.programiz.com/dsa/
+https://www.educative.io/module/data-structures-in-java
+https://education.github.com/pack
+https://education.github.com/pack
